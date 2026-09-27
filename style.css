@@ -7,3 +7,5 @@
 .bubble.user{align-self:flex-end;background:#242d3b}
 .bubble.bot{align-self:flex-start;background:var(--card2)}
 .chatinput{position:sticky;bottom:74px;background:var(--bg);padding:8px 0 4px;z-index:8}
+
+.cookingStatus{margin:12px 0;border-color:rgba(245,158,11,.45)}
